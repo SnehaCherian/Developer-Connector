@@ -6,5 +6,6 @@
 	User authorization is done using JSON Web Token.  
   User passwords are encrypted using bcrypt.
  Users need not sign in to view other developers' profiles.
+ This app is deployed in heroku.
 
 
